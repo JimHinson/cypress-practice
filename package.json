@@ -1,0 +1,30 @@
+{
+  "name": "cypressoverview",
+  "version": "1.0.0",
+  "description": "Cypress overview for Automation Guild",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  },
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimHinson/cypressOverview.git"
+  },
+  "keywords": [
+    "Cypress",
+    "Automation",
+    "Guild",
+    "AutomationGuild"
+  ],
+  "author": "Jim Hinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimHinson/cypressOverview/issues"
+  },
+  "homepage": "https://github.com/JimHinson/cypressOverview#readme"
+}
