@@ -9,6 +9,5 @@ describe('Verify the form fields warn users who enter too much data', () => {
             cy.get('.budget > form > .button')
             .click();
         })
-        
     })
 })
